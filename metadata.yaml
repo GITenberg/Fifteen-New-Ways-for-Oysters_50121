@@ -1,10 +1,16 @@
 _repo: Fifteen-New-Ways-for-Oysters_50121
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50121-h/images/cover.jpg
 creator:
   author:
     agent_name: Rorer, S. T. (Sarah Tyson)
     gutenberg_agent_id: '45715'
     url: http://www.gutenberg.org/2009/agents/45715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50121#Fifteen-New-Ways-for-Oysters
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
